@@ -10,3 +10,10 @@
 choco install vscode
 ```
 
+* GIT 
+
+```sh
+# Para instalar Visual Studio Code usando Chocolatey, ejecuta el siguiente comando:
+choco install git
+```
+
