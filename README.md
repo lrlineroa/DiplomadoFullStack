@@ -34,6 +34,10 @@ git log ## Muestra todos los commits que se llevan hasta ahora
 
 git log --oneline ## Muestra una versión simplificada del registro de los commits
 
+git config --global user.email "un@correo.com"
+
+git config --global user.name "un nombre cualquiera"
+
 ```
 
 
