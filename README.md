@@ -110,7 +110,7 @@ git checkout master
 
 ### Minitaller
 
-* Crear dos archivos más y comencemos a pasar sus cambios entre los repositorios (tip) usar el git status para ver que está pasando
+* Crear dos archivos más y comencemos a pasar sus cambios entre los repositorios (tip) usar el git status para ver que está pasando, podríamos crear un nuevo repo??
 
 
 ### Branching
