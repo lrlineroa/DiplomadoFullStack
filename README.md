@@ -114,3 +114,30 @@ git checkout master
 
 
 ### Branching
+
+# Creamos una nueva rama
+
+
+```sh
+
+git checkout -b nueva_rama
+```
+* ejecutamos el comando 
+
+```sh
+git branch
+```
+* Hacemos cambios y commiteamos como lo sabemos hacer ya.
+
+* ejecutamos 
+
+```sh
+
+git log --oneline
+```
+
+* volvemos a master
+
+```sh
+git checkout master
+```
