@@ -91,6 +91,23 @@ miramos la versión compacta de los commits
 
 https://www.w3schools.com/quiztest/quiztest.asp?qtest=GIT
 
+### CHECKOUT
+
+* vamos a un commit en especifico
+```sh
+
+git checkout <hash-of-the-commit>
+```
+
+volvemos a la rama master
+
+```sh
+
+git checkout master
+```
+
+
+
 ### Minitaller
 
 * Crear dos archivos más y comencemos a pasar sus cambios entre los repositorios (tip) usar el git status para ver que está pasando
