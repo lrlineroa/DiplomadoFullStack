@@ -63,6 +63,26 @@ Esto nos creara un repositorio vacío en la carpeta .git dentro de nuestra carpe
 
 ### Ignoremos archivos
 
+### Veamos los commits
+
+* ejecutamos
+
+```sh
+# Para instalar Visual Studio Code usando Chocolatey, ejecuta el siguiente comando:
+git log
+```
+
+miremos la información completa de los commits
+
+* ejecutemos 
+
+```sh
+# Para instalar Visual Studio Code usando Chocolatey, ejecuta el siguiente comando:
+git log --oneline
+```
+miramos la versión compacta de los commits
+
+
 ### Desarrollo Quiz
 
 https://www.w3schools.com/quiztest/quiztest.asp?qtest=GIT
