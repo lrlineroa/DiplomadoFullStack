@@ -1,0 +1,113 @@
+[33mcommit 31afe0c98b303f0b3747f693032e87fc13058c07[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mMi_Nueva_Copia[m[33m)[m
+Author: david.ciro <david.ciro@OFTIC-GUSOF6>
+Date:   Sat Nov 9 10:16:32 2024 -0500
+
+    Se agrega nueva Rama a Repositorio
+
+[33mcommit d2623c0519cffd88f764cadc33bbded823e0d8b7[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: lrlineroa <leonardoraulinero@gmail.com>
+Date:   Sat Nov 9 09:43:03 2024 -0500
+
+    feat: añaditdo una imagen
+
+[33mcommit 61566a41d5857ba894b91386a77b8aa1dc198fdf[m
+Author: lrlineroa <leonardoraulinero@gmail.com>
+Date:   Sat Nov 9 09:42:27 2024 -0500
+
+    feat: añaditdo una imagen
+
+[33mcommit 916284fac4b4c31c8166558b1b29294a42df12ee[m
+Author: lrlineroa <leonardoraulinero@gmail.com>
+Date:   Sat Nov 9 09:30:20 2024 -0500
+
+    feat: añadido la información del remoto
+
+[33mcommit 895171bc90bbf6e9a9d872af0f391acb7ab482dd[m
+Author: lrlineroa <leonardoraulinero@gmail.com>
+Date:   Sat Nov 9 08:53:37 2024 -0500
+
+    feat: clone
+
+[33mcommit 34ab7b45bb3e1b47905598c7cfeded0f8c883b85[m
+Author: lrlineroa <leonardoraulinero@gmail.com>
+Date:   Sat Nov 9 08:33:52 2024 -0500
+
+    fix: a typo
+
+[33mcommit e90febabbf5159e099fa552f573509ed7a0f87fe[m
+Author: lrlineroa <leonardoraulinero@gmail.com>
+Date:   Sat Nov 9 08:19:30 2024 -0500
+
+    feat: se añadió la parte del merge
+
+[33mcommit 381dc4a6b29d39d00dfd8e78cdecc19ffa32e521[m
+Author: lrlineroa <leonardoraulinero@gmail.com>
+Date:   Fri Nov 8 11:04:37 2024 -0500
+
+    feat: add some git branch commands
+
+[33mcommit 059498defe197ef31b4b5b1027b1248794702007[m
+Author: lrlineroa <leonardoraulinero@gmail.com>
+Date:   Fri Nov 8 09:53:30 2024 -0500
+
+    feat: crear un nuevo repo
+
+[33mcommit 19eadc096c7eedb116420fd0040009887d5f8c65[m
+Author: lrlineroa <leonardoraulinero@gmail.com>
+Date:   Fri Nov 8 09:44:20 2024 -0500
+
+    feat:  se añadió el checkout
+
+[33mcommit 5e86ccc1b68ccf9fb162501095e10b00b63c768f[m
+Author: lrlineroa <leonardoraulinero@gmail.com>
+Date:   Fri Nov 8 09:14:46 2024 -0500
+
+    feat: se agregaron el config
+
+[33mcommit 34d5b18cce09102efea2166ace45ac8b3d5e91da[m
+Author: lrlineroa <leonardoraulinero@gmail.com>
+Date:   Fri Nov 8 09:06:07 2024 -0500
+
+    fix:
+
+[33mcommit 8f1b791c86150b2ab797d6bef138829a2b76cb7c[m
+Author: lrlineroa <leonardoraulinero@gmail.com>
+Date:   Fri Nov 8 09:02:16 2024 -0500
+
+    feat: se agrego git log
+
+[33mcommit 97543f6b4fa9dac531a9061862349a225f6ea0b8[m
+Author: lrlineroa <leonardoraulinero@gmail.com>
+Date:   Fri Nov 8 08:28:57 2024 -0500
+
+    feat: agregad ohasta branching
+
+[33mcommit b8a32831bec002936e1c6b876ff87bc496e710a9[m
+Author: lrlineroa <leonardoraulinero@gmail.com>
+Date:   Thu Nov 7 11:16:56 2024 -0500
+
+    feat: git install
+
+[33mcommit ef6c1ece7785e6c0cf0471fd82c9241b26d0f5ec[m
+Author: lrlineroa <leonardoraulinero@gmail.com>
+Date:   Thu Nov 7 11:15:43 2024 -0500
+
+    feat: added git
+
+[33mcommit 202a9b2af27fbe9cac5059e1dad5b2e417dde665[m
+Author: lrlineroa <leonardoraulinero@gmail.com>
+Date:   Thu Nov 7 11:04:12 2024 -0500
+
+    feat add vscode
+
+[33mcommit a9e5db2b1e5078df100fb19e0a2656dfedf6facd[m
+Author: lrlineroa <leonardoraulinero@gmail.com>
+Date:   Thu Nov 7 10:52:20 2024 -0500
+
+    feat add link to choco
+
+[33mcommit df5a7164dbcaa063f79a9d055ff5a54b117e13d0[m
+Author: lrlineroa <leonardoraulinero@gmail.com>
+Date:   Thu Nov 7 10:49:23 2024 -0500
+
+    feat: first commit
