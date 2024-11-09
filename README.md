@@ -167,3 +167,9 @@ git merge nombre_de_nuestra_rama
 ```sh
 git clone ruta
 ```
+
+* entramos al repositorio y ejecutamos
+```sh
+git remote -v
+```
+
