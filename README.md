@@ -115,7 +115,7 @@ git checkout master
 
 ### Branching
 
-# Creamos una nueva rama
+#### Creamos una nueva rama
 
 
 ```sh
@@ -140,4 +140,22 @@ git log --oneline
 
 ```sh
 git checkout master
+```
+
+#### Ingtegrando cambios
+
+Cuando tenemos los cambios de una rama, y queremos fusionarlos en otra, 
+
+* La rama de los cambios sería la rama fuente
+* La rama en la cuál queremos poner esos cambios es la rama destino
+
+Para hacer eso.
+1. Nos paramos en la rama destino para el ejemplo sería master
+
+```sh
+git checkout master
+```
+2. Hacemos merge de los cambios de la rama fuente:
+```sh
+git checkout nombre_de_nuestra_rama
 ```
