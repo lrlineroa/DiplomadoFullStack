@@ -157,5 +157,5 @@ git checkout master
 ```
 2. Hacemos merge de los cambios de la rama fuente:
 ```sh
-git checkout nombre_de_nuestra_rama
+git merge nombre_de_nuestra_rama
 ```
