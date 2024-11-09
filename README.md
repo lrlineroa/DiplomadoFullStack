@@ -175,3 +175,14 @@ git remote -v
 
 ![alt text](image-3.png)
 
+* entramos al repositorio y ejecutamos
+```sh
+git pull origin master
+```
+* hacemos una nueva rama como ya sabemos
+
+* entramos al repositorio y ejecutamos
+```sh
+git push origin nombre nueva rama
+```
+
