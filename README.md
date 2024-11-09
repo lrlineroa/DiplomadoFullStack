@@ -159,3 +159,11 @@ git checkout master
 ```sh
 git merge nombre_de_nuestra_rama
 ```
+
+## GITHUB
+
+* Hacemos clone del proyecto deseado de github
+
+```sh
+git clone ruta
+```
