@@ -183,6 +183,6 @@ git pull origin master
 
 * entramos al repositorio y ejecutamos
 ```sh
-git push origin nombre nueva rama
+git push origin <nombre nueva rama>
 ```
 
