@@ -173,3 +173,5 @@ git clone ruta
 git remote -v
 ```
 
+![alt text](image-3.png)
+
