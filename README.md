@@ -186,3 +186,16 @@ git pull origin master
 git push origin <nombre nueva rama>
 ```
 
+## JAVA
+
+```sh
+choco install openjdk
+```
+* Creamos un archivo Main.java
+```java
+public class Main {
+  public static void main(String[] args) {
+    System.out.println("Hello World");
+  }
+}
+```
