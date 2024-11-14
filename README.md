@@ -199,3 +199,36 @@ public class Main {
   }
 }
 ```
+
+### Ejercicio Pirámide de X's
+
+*Creamos un archivo MainForMethods.java
+
+```java
+import java.util.Scanner;
+
+public class MainForMethods {
+  public static void main(String[] args) {
+
+    int altura;
+    Scanner myObj = new Scanner(System.in);
+    System.out.println("Ingrese la altura de la torre:");
+      
+    altura=myObj.nextInt();
+
+    for(int i=0; i<altura; i++){
+      for(int j=0; j<i+1; j++){
+        System.out.print("X");
+      }
+      System.out.println("");
+    }
+  }
+}
+```
+
+*Compilamos el archivo MainForMethods.java
+
+
+```sh
+java MainForMethods.java
+```
